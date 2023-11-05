@@ -1,0 +1,9 @@
+A set of numbers has been provided as a text message in this challenge.
+
+Steps:
+
+1. What we have to do is to mod each of those numbers by 37.
+
+2. We then have to map them as per the ascii values to get the final message
+
+3.  0-25 is the alphabet (uppercase), 26-35 are the decimal digits, and 36 is an underscore.
