@@ -1,0 +1,16 @@
+The main step is to multiply 2 separate ciphertexts to trick the decryption into giving us the answer
+
+the cecryption does not decipher the main cipher needed to get the flag
+
+STEPS:
+
+1. we make use of 2 ciphers, one of which has already been given as c which is = P^(e)*mod(n)
+	 we create the second one by using any small integer in the formula c2 = P^(e)*mod(n)
+	 i.e c2 = 6^(e)*mod(n)
+
+2. we multiply both the cipher texts ==> c * c2
+	 i.e output = 6P^(e)*mod(n)
+
+3. divide by 6 to get just the plain text.	(Note:  result stays within the confines of the modulo operation)
+
+4. convert this into ascii

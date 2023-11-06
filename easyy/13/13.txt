@@ -1,0 +1,7 @@
+Mod26
+
+They asked about what ROT13 is
+
+to get the flag here we just use an online ROT13 decoder
+
+what it does is add go forward by 13 alphabets. For example, if there is an alphabet A it will become N

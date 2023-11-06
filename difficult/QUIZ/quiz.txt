@@ -1,0 +1,17 @@
+nc jupiter.challenges.picoctf.org 58617
+
+1. 4636878989
+
+2. 93089
+
+3. n
+
+4. 836623060
+
+5. untitled 1
+
+6. n
+
+7. untitled 2
+
+8. untitled 3

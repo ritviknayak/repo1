@@ -1,0 +1,16 @@
+1. One time pad(OTP) is when the length of the cipher = length of the message. But it is very costly
+
+
+2. From the table that has been provided, we can coclude that this is a vigenere cipher
+
+3. we use the table along with the given encrypted flag and key to get the message
+
+4. Each letter of the given key form the rows. In each of theose rows we search for the corresponding letter given as the encrypted flag.
+	The corresponding letter given in that column will 	be the final answer. 
+
+
+	
+	ecrypted flag: UFJKXQZQUNB
+	key:	       SOLVECRYPTO
+
+	Final answer:  CRYPTOISFUN 

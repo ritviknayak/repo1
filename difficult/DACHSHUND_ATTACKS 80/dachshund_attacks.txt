@@ -1,0 +1,14 @@
+Steps:
+
+1. use the given web URL on the webshell  provided in picogym
+	we get n,c, and e values
+
+2. Installed A Python implementation of the Wiener attack on RSA from github.
+	we get value of d from this
+
+3. Find the value of P i.e the plain text 
+	
+	using formula C^(d) * mod(n)
+
+
+4.   convert into ascii to get the flag

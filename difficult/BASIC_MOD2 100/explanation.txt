@@ -1,0 +1,9 @@
+A set of numbers has been provided as a text message in this challenge.
+
+Steps:
+
+1. What we have to do is to find the modular inverse of the number with 41
+
+2. We then have to map them as per the ascii values to get the final message
+
+3.  0-26 is the alphabet (uppercase), 27-36 are the decimal digits, and 37 is an underscore.

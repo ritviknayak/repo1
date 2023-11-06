@@ -1,0 +1,10 @@
+When you take the plaintext and raise it to the 3rd power, it might be larger than n. If so, it must be the ciphertext plus a multiple of n (since the ciphertext is plaintext cubed mod n). We are guessing that plaintext^3=ciphertext + kn for a small value of k. Trying small values of k and taking the cube root gives us guesses for the plaintext.
+
+Baically we take the cube root of the cypher text and add it with a multiple of n
+
+the nect step is to check if pico exists in there in hex form
+
+if it exists in hex form we convert it to ascii.
+
+		P = C^(d) * mod(n) --------------> Decryption
+		C = P^(e) * mod(n) --------------> Encryption

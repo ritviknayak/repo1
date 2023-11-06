@@ -1,0 +1,5 @@
+The way to do this is to search for flags that are similar to the ones that are given.
+
+The flags represent letters and numbers in this case giving us the output:
+
+		PICOCTF{F1AG5AND5TUFF}
