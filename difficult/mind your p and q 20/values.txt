@@ -23,8 +23,8 @@ STEPS FOR SOLVING RSA:
 the code for this has beeen done in python under mind your p and q
 
 n -> public key
-e -> public key
-d -> private key
+e -> public key -> encryption exponent
+d -> private key -> decryption exponent
 t -> totient function
 P -> Plain text
 C -> Cypher text
